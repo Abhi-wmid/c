@@ -1,0 +1,7 @@
+#include<stdio.h>  
+void main ()  
+{  
+    char s[11] = "abhishek";  
+    char *p = s;  
+    printf("%s",p);
+} 
